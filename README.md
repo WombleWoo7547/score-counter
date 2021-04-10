@@ -1,2 +1,3 @@
-# jquery-score-counter
+# Jquery Score Counter
  
+## COOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL!
